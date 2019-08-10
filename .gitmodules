@@ -93,7 +93,7 @@
 [submodule "packages/vyatta-op-dhcp-server"]
 	path = packages/vyatta-op-dhcp-server
 	url = https://github.com/vyos/vyatta-op-dhcp-server.git
-	branch = crux
+	branch = current
 [submodule "packages/vyatta-wireless"]
 	path = packages/vyatta-wireless
 	url = https://github.com/vyos/vyatta-wireless.git
@@ -129,7 +129,7 @@
 [submodule "packages/vyatta-util"]
 	path = packages/vyatta-util
 	url = https://github.com/vyos/vyatta-util.git
-	branch = crux
+	branch = current
 [submodule "packages/vyos-world"]
 	path = packages/vyos-world
 	url = https://github.com/vyos/vyos-world.git
@@ -153,7 +153,7 @@
 [submodule "packages/vyos-keepalived"]
 	path = packages/vyos-keepalived
 	url = https://github.com/vyos/vyos-keepalived.git
-	branch = crux
+	branch = current
 [submodule "packages/vyatta-iproute"]
 	path = packages/vyatta-iproute
 	url = https://github.com/vyos/vyatta-iproute.git
@@ -161,7 +161,7 @@
 [submodule "packages/vyatta-quagga"]
 	path = packages/vyatta-quagga
 	url = https://github.com/vyos/vyatta-quagga.git
-	branch = crux
+	branch = current
 [submodule "packages/vyos-wireguard"]
 	path = packages/vyos-wireguard
 	url = https://github.com/vyos/vyos-wireguard.git
@@ -169,11 +169,11 @@
 [submodule "packages/pmacct"]
 	path = packages/pmacct
 	url = https://github.com/vyos/pmacct.git
-	branch = crux
+	branch = current
 [submodule "packages/vyos-strongswan"]
 	path = packages/vyos-strongswan
 	url = https://github.com/vyos/vyos-strongswan.git
-	branch = crux
+	branch = current
 [submodule "packages/vyos-accel-ppp"]
 	path = packages/vyos-accel-ppp
 	url = https://github.com/vyos/vyos-accel-ppp.git
@@ -185,15 +185,15 @@
 [submodule "packages/conntrack-tools"]
 	path = packages/conntrack-tools
 	url = https://github.com/vyos/conntrack-tools.git
-	branch = crux
+	branch = current
 [submodule "packages/eventwatchd"]
 	path = packages/eventwatchd
 	url = https://github.com/vyos/eventwatchd.git
-	branch = crux
+	branch = current
 [submodule "packages/ddclient"]
 	path = packages/ddclient
 	url = https://github.com/vyos/ddclient.git
-	branch = crux
+	branch = current
 [submodule "packages/vyatta-biosdevname"]
 	path = packages/vyatta-biosdevname
 	url = https://github.com/vyos/vyatta-biosdevname.git
