@@ -23,7 +23,7 @@ print_help() {
   echo "  --build-[packagename] - build only selected packages"
 }
 
-BUILDLIST=""
+BUILDLIST="vyos-vmwaretools-scripts"
 VERBOSE=0
 
 while test $# -gt 0
